@@ -3,12 +3,15 @@ __pycache__/
 *.py[cod]
 *$py.class
 
-#IDE files
+# IDE files
 /.idea/
 /.vs/
 
-#Environment files
+# Environment files
 /MeBo_Environment/
+
+# Work files
+/config.py/
 
 # C extensions
 *.so
