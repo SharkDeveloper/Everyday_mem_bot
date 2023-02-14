@@ -11,7 +11,7 @@ __pycache__/
 /MeBo_Environment/
 
 # Work files
-/config.py/
+/config.py
 
 # C extensions
 *.so
